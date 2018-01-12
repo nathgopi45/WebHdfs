@@ -1,5 +1,5 @@
 # WebHdfs
-Retrieve and Insert into HDFS over WEB HTTP .
+Insert and Retrieve files into HDFS over WEB HTTP .
 
 Pre requistes are  :
 
